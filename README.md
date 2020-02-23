@@ -1,8 +1,12 @@
 # Egg Timer
  
-## What I Made
+## Challenges I Faced?
 
-I made a beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs. 
+I had difficulty understanding how to put the underlying logic of a eggtimer in Swift.
+
+## How Did I Over Come Those Challenges? 
+
+I wanted to be sure that I was thinking programmatically, so my first step was to draw out my desire result plainly in commin english on a white board. Once I had somewhat of a mental path for the underlying logic of the egg timer app I was then able to tailor my research accordingly. By leveraging platforms like Google, YouTube, MDN docs, Stackoverflow, GitHub, online courses, and reference guides I was able to find the proper swift methods and functions needed to complete the task. 
 
 ## What I Learned
 
@@ -13,4 +17,4 @@ I made a beautiful egg timer app to boil your eggs to perfection depending on ho
 * Functions with outputs
 * How to use the ProgressView
 
-
+![App Screen Shot](timer.png)
