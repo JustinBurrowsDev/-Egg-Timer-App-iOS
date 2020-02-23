@@ -2,7 +2,7 @@
  
 ## Challenges I Faced?
 
-I had difficulty understanding how to put the underlying logic of a eggtimer in Swift.
+I had difficulty understanding how to put the underlying logic of a eggtimer app in Swift.
 
 ## How Did I Over Come Those Challenges? 
 
